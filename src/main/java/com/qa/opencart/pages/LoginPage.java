@@ -19,6 +19,7 @@ public class LoginPage {
 	private By forgotPwdLink=By.linkText("Forgotten Password");
 	private By registrationLink=By.linkText("Register");
 	private By accLogoutMessage=By.cssSelector("div#content h1");
+	private By mahima=By.cssSelector("div#mahima h1");
 	
 	
 	//2. public page class constru
