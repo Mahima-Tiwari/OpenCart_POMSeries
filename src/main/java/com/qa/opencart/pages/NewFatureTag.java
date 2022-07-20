@@ -8,6 +8,8 @@ public class NewFatureTag {
 		System.out.println("F2222222222");
 		
 		System.out.println("F3");
+		
+		System.out.println("F4");
 
 	}
 
